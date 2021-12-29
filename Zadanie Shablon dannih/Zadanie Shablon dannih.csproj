@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Zadanie_Shablon_dannih</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\cheese.png" />
+    <None Remove="Data\milk.jpg" />
+    <None Remove="Data\phone.png" />
+    <None Remove="Data\televizor.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Data\cheese.png" />
+    <Resource Include="Data\milk.jpg" />
+    <Resource Include="Data\phone.png" />
+    <Resource Include="Data\televizor.jpg" />
+  </ItemGroup>
+
+</Project>

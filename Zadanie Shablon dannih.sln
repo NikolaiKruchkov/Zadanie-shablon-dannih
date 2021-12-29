@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie Shablon dannih", "Zadanie Shablon dannih\Zadanie Shablon dannih.csproj", "{D01F4F6F-FC28-41BC-ADF4-E68676B2B626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01F4F6F-FC28-41BC-ADF4-E68676B2B626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01F4F6F-FC28-41BC-ADF4-E68676B2B626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01F4F6F-FC28-41BC-ADF4-E68676B2B626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01F4F6F-FC28-41BC-ADF4-E68676B2B626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF5866D-1687-47AA-A809-E7A019DB8B29}
+	EndGlobalSection
+EndGlobal
